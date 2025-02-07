@@ -19,5 +19,6 @@ while running:
             running = False 
             
     pygame.display.flip()
-
+    pygame.draw.rect(200,200)
+    pygame.surface.Surface()
 pygame.quit()
